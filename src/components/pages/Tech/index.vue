@@ -1,5 +1,7 @@
 <template>
+
     <div>
+       <techHeader></techHeader> 
     <h3>Intel,the Connected World and African Start-Ups</h3>
     <p>For the past 8 months that I had to relocate to the US from Nigeria,
     its been the beginning of an ongoing process of understanding why some countries around the world make 
@@ -21,6 +23,7 @@
 </template>
 
 <script>
+import techHeader from './techHeader'
 export default {
 
 }
